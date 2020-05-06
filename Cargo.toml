@@ -3,6 +3,11 @@ name = "temp_convertor"
 version = "0.1.0"
 authors = ["Haseeb ul Hassan <haseeb.ee12@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/haseebulhassan-IOT/temperature_convertor"
+homepage = "https://github.com/haseebulhassan-IOT/temperature_convertor"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "A rust library crate that will convert any temperature value given by the userfrom Celsius to Fahrenheit scale or from Fahrenheit to Celsius scale."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
